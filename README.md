@@ -2,8 +2,6 @@
 Analysis on the spread of coronavirus in Africa and the role of digital health tools in fighting against the pandemic on the continent. The project starts with analysing how the virus spread on the continet,  whoch countries have the most cases and whether they have reached a peak yet
 It then looks at how digital health tools have helped to fight against the spread, by quickly configuring they existing platforms for case management and contact tracing.
 The data used is from WHO dashboard.
-# Blog Post
-A blog post has been included in this project as pdf but will soon be published.
 
 # Dependencies
 The project should run with libraries included in the Anaconda distribution. Following main libraries have been used:
