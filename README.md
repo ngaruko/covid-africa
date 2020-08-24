@@ -14,12 +14,12 @@ matplotlib 0.8.4
 
 # Files in the Repository
 covid-africa.py.ipynb: Jupyter notebook containing the analysis of the project
-covid-africa.py.html: Jupyter notebook saved as HTML file
-covid-africa.py: Python file containing additional code for the analysis
+utils.py: Python file containing additional code for the analysis
 
-# Directory
-
+# Data Directory
+Data for project saved in `data` folder
 # Image Directory
+Images, plots and map saved in `images` folder
 
 # Analysis Results
 
@@ -27,4 +27,4 @@ Please find my summary for a non-technical audience in a blog post [here](https:
 
 # Acknowledgements
 The "Data Science" nanodegree at Udacity.
-See References in the article
+See [References](https://github.com/ngaruko/covid-africa/blob/master/covid.ipynb)
