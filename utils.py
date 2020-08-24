@@ -20,7 +20,7 @@ def load_data(url):
     Get data from url and save to local disk for further analysis
     Data saved in 'data/covid' created if it does not exist.
     '''
-    file_path = os.path.join('data','covid')
+    file_path = 'data'
     os.makedirs(file_path, exist_ok=True)
     csv_path = os.path.join(file_path, 'WHO-COVID-19-global-data.csv')
     urllib.request.urlretrieve(url, csv_path)
